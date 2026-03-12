@@ -1,6 +1,3 @@
-# Reportes
-Grupo Damian Lorenzo, Juan Reyes, Elvin Inoa, Badir Spenceer
-
 Uso de reportes en C#
 
 Objeto de Estudio:
