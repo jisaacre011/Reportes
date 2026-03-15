@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|c:\\users\\usergpc\\downloads\\clases\\python\\reportes\\reportes\\reportes\\4.ui\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|solutionrelative:reportes\\4.ui\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|c:\\users\\usergpc\\downloads\\clases\\python\\reportes\\reportes\\reportes\\4.ui\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|solutionrelative:reportes\\4.ui\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|c:\\users\\usergpc\\downloads\\clases\\python\\reportes\\reportes\\reportes\\4.ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|solutionrelative:reportes\\4.ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|c:\\users\\usergpc\\downloads\\clases\\python\\reportes\\reportes\\reportes\\4.ui\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|solutionrelative:reportes\\4.ui\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|c:\\users\\usergpc\\downloads\\clases\\python\\reportes\\reportes\\reportes\\4.ui\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1591EF8D-7C0F-4413-8101-A0FC85255B42}|Reportes\\Reportes.csproj|solutionrelative:reportes\\4.ui\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Home.cs",
+              "RelativeDocumentMoniker": "Reportes\\4.UI\\Home.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes\\4.UI\\Home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:17:47.526Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Prestamos.cs",
+              "RelativeDocumentMoniker": "Reportes\\4.UI\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Prestamos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes\\4.UI\\Prestamos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:17:36.752Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Prestamos.cs",
+              "RelativeDocumentMoniker": "Reportes\\4.UI\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Prestamos.cs",
+              "RelativeToolTip": "Reportes\\4.UI\\Prestamos.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:17:38.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Pagos.cs",
+              "RelativeDocumentMoniker": "Reportes\\4.UI\\Pagos.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Pagos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes\\4.UI\\Pagos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:38:09.898Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Pagos.cs",
+              "RelativeDocumentMoniker": "Reportes\\4.UI\\Pagos.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\Downloads\\Clases\\Python\\Reportes\\Reportes\\Reportes\\4.UI\\Pagos.cs",
+              "RelativeToolTip": "Reportes\\4.UI\\Pagos.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAkwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:28:49.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
